@@ -1,0 +1,17 @@
+@keyframes anime {
+    0% {
+        margin-left: 0;
+    }
+ 
+    35% {
+        margin-left: -101%;
+    }
+ 
+    70% {
+        margin-left: -201%;
+    }
+ 
+    100% {
+        margin-left: -301%;
+    }
+}
